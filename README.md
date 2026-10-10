@@ -1,26 +1,37 @@
 <div align="center">
 
 <!-- Анимированный динамический баннер -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Привет!+Я+prostoy23rus+👋;Network+%26+Linux+Enthusiast+🛰️;Creator+of+Easy+Remote+🚀;Building+fast+P2P+%26+networking+tools+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Привет!+Я+prostoy23rus+👋;100%25+Vibe+Coding+with+Antigravity+🤖;Network+%26+Linux+Enthusiast+🛰️;Creator+of+Easy+Remote+🚀;Building+fast+P2P+%26+networking+tools+⚡" alt="Typing SVG" />
 
 <p align="center">
-  <strong>🔥 Разработчик & сетевой энтузиаст · Настройка сетевого оборудования, роутеров и Linux-систем</strong>
+  <strong>🔥 Разработчик & сетевой энтузиаст · 100% Вайбкодинг с Google DeepMind Antigravity</strong>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prostoy23rus&color=0284c7&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile Views" />
+  &nbsp;
+  <a href="https://deepmind.google"><img src="https://img.shields.io/badge/Vibe_Coding-Antigravity_(Gemini_2.5_Pro)-8A2BE2?style=for-the-badge&logo=google&logoColor=white" alt="Vibe Coded" /></a>
 </p>
 
 </div>
 
 ---
 
+### 🤖 Вайбкодинг & Философия разработки
+
+> ✨ **Все нынешние и будущие проекты в этом профиле разработаны исключительно с помощью вайбкодинга (Vibe Coding)** в паре с AI-моделью **Antigravity (Google DeepMind, Gemini 2.5 Pro)**.
+> 
+> * 🚀 **Чистый поток идей:** Архитектура, кодовая база, оптимизация 60 FPS WebRTC видеопотока, драйверная эмуляция Win32, работа с сетью и сборка исполняемых файлов реализуются через интерактивный диалог и парное программирование с искусственным интеллектом.
+> * 💡 Никаких скучных шаблонов — только фокус на результате, скорость и высокое качество решений.
+
+---
+
 ### 🚀 Обо мне
 
-* 🔭 Создатель и ведущий разработчик [**Easy Remote**](https://github.com/prostoy23rus/easy-remote) — бесплатной, высокоскоростной P2P WebRTC альтернативы AnyDesk без серверов и ограничений.
-* 🌐 Увлекаюсь сетевой инженерией, маршрутизацией, настройкой **OpenWrt**, **Keenetic**, **MikroTik RouterOS**, туннелями и обходом сетевых блокировок.
-* ⚡ Пишу инструменты на **Python**, автоматизирую рутину скриптами, разрабатываю быстрый P2P софт.
-* 🛠️ Люблю чистый, эффективный код и нулевые зависимости на платные сервисы.
+* 🤖 **100% Вайбкодер:** Разрабатываю полезный софт нового поколения с помощью передового AI **Antigravity (Gemini 2.5 Pro)**.
+* 🔭 Создатель проекта [**Easy Remote**](https://github.com/prostoy23rus/easy-remote) — бесплатной, высокоскоростной P2P WebRTC альтернативы AnyDesk без серверов и подписок.
+* 🌐 Увлекаюсь сетевой инженерией, маршрутизацией, настройкой **OpenWrt**, **Keenetic**, **MikroTik RouterOS**, туннелями и автоматизацией.
+* 🛠️ Люблю автономные решения, открытый исходный код и независимость от чужой серверной инфраструктуры.
 
 ---
 
@@ -28,12 +39,12 @@
 
 <div align="center">
 
-#### Языки & Разработка
+#### AI & Разработка
+[![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-Antigravity-8A2BE2?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google)
+[![Gemini](https://img.shields.io/badge/Model-Gemini_2.5_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bash](https://img.shields.io/badge/Bash_/_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
 #### Сети, Протоколы & ОС
 [![WebRTC](https://img.shields.io/badge/WebRTC_P2P-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://webrtc.org)
@@ -53,7 +64,7 @@
 
 [![Easy Remote Card](https://github-readme-stats.vercel.app/api/pin/?username=prostoy23rus&repo=easy-remote&theme=tokyonight&border_color=3b82f6&title_color=38bdf8&icon_color=60a5fa)](https://github.com/prostoy23rus/easy-remote)
 
-> **[Easy Remote](https://github.com/prostoy23rus/easy-remote)** — открытый аналог AnyDesk на базе WebRTC (до 60 FPS, минимальная задержка, эмуляция ввода Win32, вшитый SSH/SFTP клиент Netcatty и быстрые команды для роутеров).
+> **[Easy Remote](https://github.com/prostoy23rus/easy-remote)** — открытый аналог AnyDesk на базе WebRTC (до 60 FPS, минимальная задержка, эмуляция ввода Win32, вшитый SSH/SFTP клиент Netcatty и панель администрирования). Разработан на 100% методом вайбкодинга.
 
 </div>
 
@@ -72,5 +83,5 @@
 ---
 
 <div align="center">
-  <i>«Быстрый софт без лишних серверов и ограничений.»</i>
+  <i>«Вайбкодинг — когда твои идеи превращаются в работающий софт со скоростью мысли.»</i>
 </div>
