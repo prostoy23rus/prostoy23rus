@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Анимированный динамический баннер -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Привет!+Я+prostoy23rus+👋;100%25+Vibe+Coding+with+Antigravity+🤖;Network+%26+Linux+Enthusiast+🛰️;Creator+of+Easy+Remote+🚀;Building+fast+P2P+%26+networking+tools+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Привет!+Я+prostoy23rus+👋;100%25+Vibe+Coding+with+Antigravity+🤖;Network+%26+Linux+Enthusiast+🛰️;Building+fast+P2P+%26+networking+tools+⚡" alt="Typing SVG" />
 
 <p align="center">
   <strong>🔥 Разработчик & сетевой энтузиаст · 100% Вайбкодинг с Google DeepMind Antigravity</strong>
@@ -52,18 +52,6 @@
 [![MikroTik](https://img.shields.io/badge/MikroTik-29323C?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com)
 [![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)](https://mqtt.org)
 [![SSH](https://img.shields.io/badge/SSH_/_SFTP-24292E?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.openssh.com/)
-
-</div>
-
----
-
-### 🌟 Главный проект
-
-<div align="center">
-
-[![Easy Remote Card](https://github-readme-stats.vercel.app/api/pin/?username=prostoy23rus&repo=easy-remote&theme=tokyonight&border_color=3b82f6&title_color=38bdf8&icon_color=60a5fa)](https://github.com/prostoy23rus/easy-remote)
-
-> **[Easy Remote](https://github.com/prostoy23rus/easy-remote)** — открытый аналог AnyDesk на базе WebRTC (до 60 FPS, минимальная задержка, эмуляция ввода Win32, вшитый SSH/SFTP клиент Netcatty и панель администрирования). Разработан на 100% методом вайбкодинга.
 
 </div>
 
